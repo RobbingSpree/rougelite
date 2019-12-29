@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "8c9e2585-6e28-4e00-995e-186deb335319",
+            "Value": {
+                "id": "35c7a09b-8837-4ab2-832e-066c3b07e6f4",
+                "resourcePath": "sprites\\menu_box\\menu_box.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
             "Value": {
                 "id": "c2607165-f515-4aa1-b6bf-52724d73a010",
@@ -172,6 +180,14 @@
                 "id": "ad393251-25b8-4723-a5e0-e0adba4fc286",
                 "resourcePath": "views\\9a34727a-9cd8-45f2-86e2-873e0b83cf08.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a0abc3e9-f437-49b6-81ea-50cda1321701",
+            "Value": {
+                "id": "74bec013-bcc3-4f10-b6e9-d89cfda48a20",
+                "resourcePath": "sprites\\sel_target\\sel_target.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -199,6 +215,22 @@
             }
         },
         {
+            "Key": "ad97aa7f-cb1f-4e55-97c9-fed2e01a3ba2",
+            "Value": {
+                "id": "642a9087-a524-4647-8a8e-b386abfe5da2",
+                "resourcePath": "objects\\menu_\\menu_.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c8a314b8-0cb2-4ce7-bea8-0ca94753d7cc",
+            "Value": {
+                "id": "f1296a49-57fd-4ed3-bd3c-0f203e723ca7",
+                "resourcePath": "fonts\\defont\\defont.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "25cd92a5-263c-450a-aee9-05f1818383f3",
@@ -220,6 +252,14 @@
                 "id": "3604bc29-b6ad-4898-aaee-ab16190bd356",
                 "resourcePath": "views\\cfea723b-00eb-4af8-9946-47d463240443.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d0bb61a6-fe9c-4adf-92d4-03c3125b60ad",
+            "Value": {
+                "id": "ad7f8638-d46a-4f3a-86f2-24c7b654b87d",
+                "resourcePath": "sprites\\menu_highlight\\menu_highlight.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
